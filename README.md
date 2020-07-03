@@ -8,9 +8,9 @@ The online learning application is divided into three pages, namely the welcome 
 
 ### Video
 
-YouTube : [Watch it on YouTube]()
+YouTube : [Watch it on YouTube](https://youtu.be/WTTDeY-DFEo)
 
-Bilibili : [Watch it on Bilibili]()
+Bilibili : [Watch it on Bilibili](https://www.bilibili.com/video/BV1Yp4y1U7Rr/)
 
 ### UI 
 
